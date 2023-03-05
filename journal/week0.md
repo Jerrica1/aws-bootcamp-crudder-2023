@@ -17,7 +17,7 @@
 ### Recreate Conceptual Diagram in Lucid Charts or on a Napkin
 
 **[Conceptual Diagram](https://lucid.app/lucidchart/ec2af634-d9c9-449e-98f2-5c508fc62826/edit?viewport_loc=-19%2C-16%2C1480%2C639%2C0_0&invitationId=inv)**
-![Conceptual Diagram](images\conceptualdiagram.png)
+![Conceptual Diagram](images\conceptualdiagram.jpeg)
 
 ### Recreate Logical Architectural Diagram in Lucid Charts
 
