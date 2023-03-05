@@ -21,7 +21,7 @@
 
 ### Recreate Logical Architectural Diagram in Lucid Charts
 
-**[Logical Diagram](https://lucid.app/lucidchart/b074e5d6-c674-4ef8-932e-fa07e2b439a8/edit?viewport_loc=467%2C307%2C1480%2C639%2C0_0&invitationId=inv_7e458e24-36ea-4426-8d26-d226b7ce1646)
+**[Logical Diagram](https://lucid.app/lucidchart/b074e5d6-c674-4ef8-932e-fa07e2b439a8/edit?viewport_loc=467%2C307%2C1480%2C639%2C0_0&invitationId=inv_7e458e24-36ea-4426-8d26-d226b7ce1646)**
 ![Logical Diagram]("C:\Users\Jerrica\OneDrive\Pictures\AWS Bootcamp\Week 0\images\logicaldiagram.png")
 
 ### Create an Admin User
