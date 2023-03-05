@@ -30,7 +30,7 @@
 
 ### Using CloudShell
 
-![AWS CloudShell](Images/AWS%20Cloudshell.png)
+![AWS CloudShell]![Alt text](Images/AWS%20Cloudshell.png)
 
 ### Generating AWS Credentials
 
